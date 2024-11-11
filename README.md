@@ -17,3 +17,11 @@ To explore or work with the project, follow these steps:
 3. **Open the Project**: Open Blender and select "Open" or "Open Recent". Navigate to the project directory and select the file containing the Blender Donut Project.
 
 4. **Explore the Scene**: The project file contains the 3D scene with the donut model, materials, and lighting setup. Feel free to navigate the scene, inspect the model, and modify any aspects as desired.
+## Future Improvements
+This project is a stepping stone for learning Blender, which I will use in my graduation project to create an AI character therapist for interactive conversations. Potential future enhancements include:
+
+Adding more elements: Add objects or elements to build a more complex scene.
+Experimenting with textures: Customize the look with different textures, shaders, and materials.
+Advanced techniques: Explore Blender’s advanced features like animation, physics simulations, and character modeling.
+Incorporating in larger projects: Use this donut model in larger scenes or projects.
+Portfolio sharing: Share renders or animations on social media or portfolio sites to document progress.
